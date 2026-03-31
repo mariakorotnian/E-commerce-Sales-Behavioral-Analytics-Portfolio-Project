@@ -1,6 +1,5 @@
 # E-commerce-Sales-Behavioral-Analytics-Portfolio-Project
 End-to-End E-commerce Analytics: From SQL data extraction (BigQuery) and statistical hypothesis testing in Python to interactive dashboards in Tableau Public
-#  E-commerce Sales & Behavioral Analytics Portfolio Project
 
 ##  Project Overview
 This project is a comprehensive analysis of an online store's performance. It demonstrates a full data workflow: extracting raw data using **SQL**, performing Exploratory Data Analysis (EDA) and **statistical testing in Python**, and building executive **dashboards in Tableau**.
