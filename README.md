@@ -34,11 +34,20 @@ Moved beyond descriptive statistics to find significant patterns:
 * **Cross-Continental Sales:** Tested if sales trends across America, Asia, and Europe are statistically correlated.
 * **A/B Testing Logic:** Compared sales performance between registered and non-registered users using appropriate statistical tests (T-test or Mann-Whitney U) depending on distribution normality.
 
-### 4. Interactive Visualization (Tableau)
-Created a high-impact, 2-page dashboard in Tableau Public to visualize:
-* Sales dynamics and seasonality.
-* Revenue breakdown by traffic channels and device types.
-* Pivot tables for executive reporting.
+ ### 4. Interactive BI Dashboard (Tableau)
+I developed a comprehensive analytical dashboard in Tableau Public to transform raw data into actionable business insights. The dashboard is structured as follows:
+
+* **User Loyalty & Behavior Analysis (Donut Charts):**
+    * **Revenue by Registration:** Comparing the financial contribution of Registered vs. Guest users.
+    * **Marketing Impact:** Analyzing revenue from users Subscribed vs. Unsubscribed to the newsletter.
+    * **Account Trust:** Evaluating revenue share from Verified vs. Unverified email accounts.
+* **Sales & Order Dynamics:** * Dual **Line and Area charts** tracking daily Revenue and Order Volume trends over the entire period to identify growth patterns and seasonality.
+* **Market & Channel Performance:**
+    * Revenue breakdown by **Traffic Channels** to evaluate marketing ROI.
+    * Regional analysis of Revenue by **Country** to identify top-performing markets.
+* **Product & Device Strategy:**
+    * **Horizontal Bar Chart:** A detailed ranking of Product Categories by both Total Revenue and Order Count.
+    * **Heat Map:** A matrix visualizing the percentage of Revenue across different **Device Types**, identifying the most profitable hardware segments.
 
 ---
 
