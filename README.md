@@ -26,6 +26,17 @@ Performed a deep dive into the dataset to answer critical business questions:
 * **Geo-Performance:** Identified Top-3 continents and Top-5 countries by revenue and order volume.
 * **Product Insights:** Ranked Top-10 categories and compared local vs. global trends.
 * **User Engagement:** Analyzed email verification rates and the impact of newsletter unsubscriptions on sales behavior.
+* 
+<img width="1390" height="590" alt="download (7)" src="https://github.com/user-attachments/assets/48ecae26-6bda-4933-a06a-705d4bde8dd8" />
+
+<img width="1489" height="590" alt="download (6)" src="https://github.com/user-attachments/assets/290b72f8-fef7-4f64-bc52-af5fff484112" />
+
+<img width="1489" height="690" alt="download (5)" src="https://github.com/user-attachments/assets/2edd0d9c-6af2-425d-929b-ea225c2bec0a" />
+
+<img width="1489" height="690" alt="download (4)" src="https://github.com/user-attachments/assets/0f17cbd7-9e0a-4acc-a8b6-91a3500e3f8a" />
+
+
+* 
 
 ### 3. Statistical Analysis & Hypothesis Testing
 Moved beyond descriptive statistics to find significant patterns:
