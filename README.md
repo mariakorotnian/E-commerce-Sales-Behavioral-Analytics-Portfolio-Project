@@ -1,6 +1,6 @@
 # E-commerce-Sales-Behavioral-Analytics-Portfolio-Project
 End-to-End E-commerce Analytics: From SQL data extraction (BigQuery) and statistical hypothesis testing in Python to interactive dashboards in Tableau Public
-# 🛒 E-commerce Sales & Behavioral Analytics Portfolio Project
+#  E-commerce Sales & Behavioral Analytics Portfolio Project
 
 ##  Project Overview
 This project is a comprehensive analysis of an online store's performance. It demonstrates a full data workflow: extracting raw data using **SQL**, performing Exploratory Data Analysis (EDA) and **statistical testing in Python**, and building executive **dashboards in Tableau**.
@@ -48,8 +48,9 @@ Created a high-impact, 2-page dashboard in Tableau Public to visualize:
 * **User Value:** Statistically proved (or disproved) the difference in purchasing power between registered members and guests.
 
 ##  Project Structure
-* `notebooks/` - Jupyter Notebook with Python code and statistical analysis.
-* `tableau/` - Link to the interactive dashboard on Tableau Public.
+* [notebooks/](https://colab.research.google.com/drive/1tnlhFc79xK5RBLxKsKCbvbZrG0uMSRlP?usp=sharing) - Jupyter Notebook with Python code and statistical analysis.
+* [tableau/](https://public.tableau.com/app/profile/mariia.korotnian4634/viz/Project1_17749440095570/Project1
+) - Link to the interactive dashboard on Tableau Public.
 
 ---
-**📊 Dashboard Link:** [Insert your Tableau Public link here]
+**📊 Dashboard Link:** https://public.tableau.com/app/profile/mariia.korotnian4634/viz/Project1_17749440095570/Project1
